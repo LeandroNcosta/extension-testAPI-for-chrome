@@ -6,7 +6,7 @@
 </br>
 
 ## 💻 Sobre:
-
+</br>
 É Uma extensão para o navegador chrome usando os recursos da openAI, ao realizar uma busca na barra de busca do google (somente), além de retornar os resultados do google, também retorna resposta do chatGPT
 em uma caixa de dialogo simples.
 
