@@ -1,4 +1,3 @@
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroNcosta&theme=tokyonight&show_icons=true" />
 
 <h1 align="center">
     <a href="#">Extensão Chrome </a>
