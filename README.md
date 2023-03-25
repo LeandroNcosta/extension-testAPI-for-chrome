@@ -6,13 +6,11 @@
 </br>
 
 ## 💻 Sobre:
-
-É Uma extensão para o navegador chrome usando os recursos da openAI, ao realizar uma busca na barra de busca do google (somente), além de retornar os resultados do google, também retorna resposta do chatGPT
-em uma caixa de dialogo simples.
+É Uma extensão para o navegador chrome usando os recursos da openAI, ao realizar uma busca na barra de busca do google (somente), retorna uma resposta do chatGPT em uma caixa de dialogo simples logo no início dos resultados do google. 
 
 ## 🚀 Caso queira testar / executar o projeto.
 
- <a href="https://github.com/LeandroNcosta/chrome-extension">Chorome-extension</a>
+   <a href="https://github.com/LeandroNcosta/chrome-extension">Chrome-extension(Outro repositório)</a>
 
 -   Baixe o zip do arquivo chrome-extension acima
 -   Na aba de extensôes do chrome, ative o developer Mode
@@ -26,6 +24,5 @@ em uma caixa de dialogo simples.
 -   Express
 -   Cors
 
----
 
 🤖
