@@ -9,7 +9,7 @@ routes.get('/', (request, response) => {
 
 routes.get('/answer', async (request, response) => {
   const { question } = request.query
-
+  console.log(question)
   const answer = await getAnswer(question)
 
   return response.json({ answer })
