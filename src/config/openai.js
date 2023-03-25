@@ -20,4 +20,5 @@ const getAnswer = async (question) => {
   return completion.choices[0].message.content
 }
 
+
 export default getAnswer 
